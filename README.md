@@ -1,12 +1,17 @@
 # Taller para Graduados - Mercado Pago
 ## *_Steps_*
-  - [ ] _Middleware_ Cart Session
-  - [ ] _Add_ Cart Middleware App
-  - [ ] _View_ Config Cart
-  - [ ] _Controller_ Add Cart Item
-  - [ ] _Controller_ Update Cart Item
-  - [ ] _Controller_ Remove Cart Item
+  - [x] _Middleware_ Cart Session
+  - [x] _Add_ Cart Middleware App
+  - [x] _View_ Config Cart
+  - [x] _Controller_ Add Cart Item
+  - [x] _Controller_ Update Cart Item
+  - [x] _Controller_ Remove Cart Item
   - [ ] _Module_ Mercado Pago
   - [ ] _Controller_ Mercado Pago Process
   - [ ] _Controller_ Mercado Pago Feedback
+  
+
+  #### Levantar proyecto: 
+  ````
+npm test
   
